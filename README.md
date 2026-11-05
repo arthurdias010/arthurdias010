@@ -41,9 +41,5 @@
 </p><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/etecvav26-d201/etecvav26-d201/main/Logos/logo-foxdevs-horizontal.png" width="900">
-</p>
-
-<p align="center">
 <b>ETEC Vasco Antônio Venchiarutti, 2026</b>
 </p>
